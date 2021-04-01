@@ -1,1 +1,3 @@
-Git is very powerful
+Git is very powerful'
+
+Git is free 
